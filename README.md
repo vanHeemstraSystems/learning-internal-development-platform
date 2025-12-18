@@ -1,6 +1,8 @@
 learning-internal-development-platform
 # Learning Internal Development Platform
 
+- [References](./REFERENCES.md)
+
 ```
 learning-internal-development-platform/
 ├── README.md
