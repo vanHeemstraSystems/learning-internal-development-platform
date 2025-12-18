@@ -1,5 +1,7 @@
 # References
 
+# References
+
 This document contains links to all sub-repositories and external resources for learning Internal Development Platforms (IDP).
 
 ## Sub-Repositories
@@ -204,4 +206,120 @@ This document contains links to all sub-repositories and external resources for 
 - [Azure DevOps Documentation](https://learn.microsoft.com/en-us/azure/devops/)
 
 #### Platform Engineering
-- [Backstage.io Official Docs](https://backstage.io/docs/​​​​​​​​​​​​​​​​)
+- [Backstage.io Official Docs](https://backstage.io/docs/overview/what-is-backstage)
+- [CNCF Platform Engineering](https://www.cncf.io/blog/2023/05/17/what-is-platform-engineering/)
+- [Team Topologies](https://teamtopologies.com/)
+
+#### Python & Testing
+- [Pytest Documentation](https://docs.pytest.org/)
+- [Python Testing Best Practices](https://realpython.com/pytest-python-testing/)
+- [Azure SDK for Python GitHub](https://github.com/Azure/azure-sdk-for-python)
+
+---
+
+### Books
+
+#### Platform Engineering
+- **"Team Topologies"** by Matthew Skelton and Manuel Pais
+- **"Platform Engineering on Kubernetes"** by Mauricio Salatino
+- **"Building Evolutionary Architectures"** by Neal Ford, Rebecca Parsons, Patrick Kua
+
+#### Cloud & Azure
+- **"Azure for Architects"** by Ritesh Modi
+- **"Infrastructure as Code"** by Kief Morris
+- **"Cloud Native DevOps with Kubernetes"** by John Arundel and Justin Domingus
+
+#### Testing
+- **"Test Driven Development: By Example"** by Kent Beck
+- **"Python Testing with pytest"** by Brian Okken
+- **"Unit Testing Principles, Practices, and Patterns"** by Vladimir Khorikov
+
+---
+
+### Articles & Blog Posts
+
+#### Platform Engineering
+- [What is Platform Engineering?](https://platformengineering.org/blog/what-is-platform-engineering) - Platform Engineering Community
+- [Building an Internal Developer Platform](https://www.thoughtworks.com/insights/articles/building-internal-developer-platform) - ThoughtWorks
+- [Platform as a Product](https://martinfowler.com/articles/platform-prerequisites.html) - Martin Fowler
+
+#### Azure & IDP
+- [Azure Landing Zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/) - Microsoft
+- [Building an IDP on Azure](https://techcommunity.microsoft.com/blog/) - Microsoft Tech Community
+
+#### Test-Driven Development
+- [TDD for Infrastructure](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure) - HashiCorp
+- [Testing Infrastructure as Code](https://www.infoq.com/articles/testing-infrastructure-as-code/) - InfoQ
+
+---
+
+### Video Resources
+
+#### Conferences & Talks
+- [Platform Engineering on Azure - Microsoft Build](https://build.microsoft.com/)
+- [PlatformCon Talks](https://platformcon.com/talks) - Platform Engineering Conference
+- [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/)
+
+#### YouTube Channels
+- [Microsoft Azure](https://www.youtube.com/@MicrosoftAzure)
+- [Azure DevOps](https://www.youtube.com/@AzureDevOps)
+- [CNCF](https://www.youtube.com/@cncf)
+
+---
+
+### Online Courses
+
+#### Microsoft Learn
+- [AZ-305: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
+- [AZ-700: Azure Network Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/)
+- [Azure SDK for Python Learning Path](https://learn.microsoft.com/en-us/training/paths/azure-python-sdk/)
+
+#### Other Platforms
+- [Platform Engineering Fundamentals](https://www.pluralsight.com/) - Pluralsight
+- [Azure DevOps: The Complete Guide](https://www.udemy.com/) - Udemy
+- [Test-Driven Development with Python](https://testdriven.io/) - TestDriven.io
+
+---
+
+### Community & Forums
+
+- [Platform Engineering Slack](https://platformengineering.org/slack-rd) - Platform Engineering Community
+- [Azure Community](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure) - Microsoft Tech Community
+- [r/AZURE](https://www.reddit.com/r/AZURE/) - Reddit
+- [Stack Overflow - Azure Tag](https://stackoverflow.com/questions/tagged/azure)
+- [CNCF Slack](https://slack.cncf.io/)
+
+---
+
+### Tools & Frameworks
+
+#### IDP Platforms
+- [Backstage](https://backstage.io/) - Open source developer portal
+- [Port](https://www.getport.io/) - Internal developer portal
+- [Kratix](https://kratix.io/) - Platform-as-a-Product framework
+
+#### Testing Tools
+- [pytest](https://pytest.org/) - Python testing framework
+- [pytest-azurepipelines](https://pypi.org/project/pytest-azurepipelines/) - Azure Pipelines integration
+- [moto](https://github.com/getmoto/moto) - Mock AWS services (reference for patterns)
+
+#### Infrastructure Tools
+- [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) - Azure IaC
+- [Terraform](https://www.terraform.io/) - Multi-cloud IaC
+- [Pulumi](https://www.pulumi.com/) - Modern IaC with real programming languages
+
+---
+
+## Learning Status Legend
+
+- 🔴 Not started
+- 🟡 In progress
+- 🟢 Completed
+- 🔥 HIGH priority
+- ⭐ MEDIUM priority
+- 💡 LOW priority
+
+---
+
+*Last updated: December 18, 2025*
+
