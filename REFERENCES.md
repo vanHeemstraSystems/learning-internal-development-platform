@@ -1,7 +1,5 @@
 # References
 
-# References
-
 This document contains links to all sub-repositories and external resources for learning Internal Development Platforms (IDP).
 
 ## Sub-Repositories
