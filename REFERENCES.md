@@ -47,7 +47,7 @@ This document contains links to all sub-repositories and external resources for 
 - CI/CD for tests
 - Test fixtures and helpers
 
-**Status**: 🔴 Not started
+**Status**: 🔴 Not started   
 **Priority**: 🔥 HIGH
 
 ---
@@ -63,7 +63,7 @@ This document contains links to all sub-repositories and external resources for 
 - Error handling
 - Performance optimization
 
-**Status**: 🔴 Not started
+**Status**: 🔴 Not started   
 **Priority**: 🔥 HIGH
 
 ---
@@ -204,4 +204,4 @@ This document contains links to all sub-repositories and external resources for 
 - [Azure DevOps Documentation](https://learn.microsoft.com/en-us/azure/devops/)
 
 #### Platform Engineering
-- [Backstage.io Official Docs](https://backstage.io/docs/​​​​​​​​​​​​​​​​
+- [Backstage.io Official Docs](https://backstage.io/docs/​​​​​​​​​​​​​​​​)
